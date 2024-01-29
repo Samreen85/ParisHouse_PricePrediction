@@ -24,10 +24,10 @@ The dataset is divided into training and testing sets using the scikit-learn lib
 
 To run the model, follow these steps:
 1) Clone the repository:
-* git clone https://github.com/your-username/your-repo.git
+* git clone https://github.com/Samreen85/ParisHouse_PricePrediction
   
 2) Navigate to the project directory:
-* cd your-repo
+* cd ParisHouse_PricePrediction
 
 3) Run the Python script:
-* python your_script.py
+* python ParisHouse_PricePrediction.py
